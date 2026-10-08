@@ -1,4 +1,4 @@
-# PulseCare Portal
+# Greenhouse Logger Dashboard
 
 This project was created for **CSI-3150: Web and Mobile Systems** as part of Assignment 2B.
 
@@ -30,7 +30,7 @@ The project is built using:
 ## Project Structure
 
 ```text
-pulsecare-portal/
+greenhouse-logger-dashboard/
 ├── index.html
 ├── styles.css
 ├── app.js
